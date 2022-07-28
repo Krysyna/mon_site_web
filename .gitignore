@@ -1,6 +1,5 @@
 tmp/*
 *.txt
-*.xml
 modif .gitignore clone local
 modif gitignore sur depot initial
 
